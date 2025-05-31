@@ -4,3 +4,22 @@
     position:relative;
     background-color: red;
 }
+body {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    margin: 0;
+    background-color:azure;
+}
+
+h1,
+p {
+    margin: 20px 0;
+}
+#reactionTime {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #333;
+}
